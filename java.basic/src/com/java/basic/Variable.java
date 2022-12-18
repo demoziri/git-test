@@ -8,7 +8,7 @@ public class Variable {
 		int math = 71;
 		int eng = 100;
 		int scien = 32;
-		int SUBNUM = 4;
+		int SUBNUM = 3;
 		
 		int total;
 		double avg;
